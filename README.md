@@ -1,2 +1,5 @@
 # WEB-DEVELOPMENT
-Some of my web development project
+Here is what is used after i started learning html.
+
+
+Learning  the other area of development side is side.
